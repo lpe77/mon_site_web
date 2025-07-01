@@ -22,6 +22,11 @@
 			<h1> Ma description </h1>
 			<p> Je m'appelle Laurent et suis DBA. </p>
 		</div>
-		
+
+		<!-- recompense -->
+		<div>
+			<h1> Mes récompenses </h1>
+			<p> en construction... </p>
+		</div>		
 	
 </body></html>
